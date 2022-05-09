@@ -1,1 +1,4 @@
 1) git init
+2) git remote origin path - это команда соединяет удаленный репозиторий
+3) git status - команда для проверки файлов(состояния) Tracked Untracked modified
+4) git add file(*)
